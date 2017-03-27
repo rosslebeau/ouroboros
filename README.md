@@ -5,15 +5,15 @@ An ouroboros is a type of [quine](https://en.wikipedia.org/wiki/Quine_(computing
 
 I wrote this as a celebration of Swift 3 being officially released, since these are two languages that are near and dear to my heart. I hope you enjoy it!
 
-##How to use this:
+## How to use this:
 
-###Swift
+### Swift
 
 Simply run
 
 `swift ouroboros.swift` to obtain the Objective-C code.
 
-###Objective-C
+### Objective-C
 
 Compile the Objective-C source with this command
 
@@ -23,7 +23,7 @@ then run it like this to obtain the Swift code
 
 `./objc_ouroboros`
 
-###Writing to File from Command Line
+### Writing to File from Command Line
 
 You can redirect the output of a program into a file like this
 
